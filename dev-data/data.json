@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Red Heart",
+    "image": "❤️",
+    "from": "30 cm x 90 cm",
+    "nutrients": "true love",
+    "quantity": "2 ❤️",
+    "price": "499",
+    "organic": true,
+    "description": "It’s the classic red heart that we know so well in our Valentine’s Day crafts and gifts. When you send a red heart emoji to someone, you are telling them that you love them dearly. A red heart is a symbol of friendship, unconditional love, passion, and good feelings. This red is bright and vibrant. It’s one you can’t miss. You can use red hearts freely on social media to show that you love or really like something and that it means a lot to you. Or you could use these striking emojis in messages to your friends, family members and with your partner. Don’t use a red heart emoji when messaging your boss, work colleagues, or someone who is married or in a relationship. or you could be sending the wrong message. You also wouldn’t send a red heart to someone you don’t like… "
+  },
+  {
+    "id": 1,
+    "productName": "Orange Heart",
+    "image": "🧡",
+    "from": "30 cm x 90 cm",
+    "nutrients": "friendship and care",
+    "quantity": "2 🧡",
+    "price": "499",
+    "organic": false,
+    "description": "Well, it’s used in color therapy to represent joy, happiness, creativity, encouragement and sunshine. All the things a good friend is. Orange is a warm color, but not as vibrant as red. So when you send an orange heart emoji, you are telling the person ‘I like you deeply as a friend’. You can send orange heart emojis to your friends and acquaintances. You can also send one to someone who is flirting with you, if you’d like to tell them nicely that you are not interested in a romantic relationship with them. Some people call this the ‘friend zone’. Orange heart emojis can be used on social media, especially if you’re posting pictures with your friends, but they aren’t as popular or eye-catching as the red heart emoji."
+  },
+  {
+    "id": 2,
+    "productName": "Green Heart ",
+    "image": "💚",
+    "from": "30 cm x 90 cm",
+    "nutrients": "jealousy/healthy living",
+    "quantity": "2 💚",
+    "price": "499",
+    "organic": true,
+    "description": "If you’re angry and send someone a green heart, it means you’re being possessive and jealous. You are clearly telling them that something is bringing out the big green monster in you. Perhaps your partner is speaking to someone you don’t like or someone from their past, and you want to let them them know that you’re not happy about it. Then you’d use the green heart emoji. But if your best friend quits her terrible job to pursue her dreams, then you could also send her a green heart to let her know you’re happy but very jealous that she’s doing this amazing thing and you aren’t."
+  },
+  {
+    "id": 3,
+    "productName": "Blue Heart",
+    "image": "💙",
+    "from": "30 cm x 90 cm",
+    "nutrients": "trust/confidence",
+    "quantity": "2 💙",
+    "price": "499",
+    "organic": true,
+    "description": "The blue heart emoji means trust and confidence. If you get one of these hearts, it means the person believes in you. Color-wise, blue reminds us of stability, wisdom and faith. It’s the color of the seas and the sky. It’s calming and wise. You can use blue hearts with friends and anyone you’d like to encourage during a project or through a difficult time."
+  },
+  {
+    "id": 4,
+    "productName": "Purple Heart",
+    "image": "💜",
+    "from": "30 cm x 90 cm",
+    "nutrients": "luxury/sparkle",
+    "quantity": "2 💜",
+    "price": "499",
+    "organic": false,
+    "description": "This is the dazzling heart. The violet heart. The one for glamour, extravagance and magic. It’s not shy. Purple is a noble color after all. Use purple heart emojis when sharing luxurious products, outfits, or activities. If you’re using private messages, a purple heart emoji is linked to physical attraction. Sending it to someone tells them that you’re into them, at least physically."
+  }
+]
